@@ -1,0 +1,6 @@
+local env = getfenv()
+env["print"]("hi1","hello1")
+env["print"]("hi2","hello2")
+env["print"]("hi3","hello3")
+env["print"]("hi4","hello4")
+env["print"]("hi5","hello5")
